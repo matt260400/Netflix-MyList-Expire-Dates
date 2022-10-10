@@ -42,8 +42,8 @@ L'estensione non è ancora presente negli store, quindi sarà necessario eseguir
 
 ### Prerequisiti
 
-È necessario avere un browser Chronium come Google Chrome o Microsoft Edge.
-Una lista esaustiva di browser Chronium è presente al seguente <a href="https://it.wikipedia.org/wiki/Chromium#Browser_basati_su_Chromium">link</a>.
+È necessario avere un browser Chromium come Google Chrome o Microsoft Edge.
+Una lista esaustiva di browser Chromium è presente al seguente <a href="https://it.wikipedia.org/wiki/Chromium#Browser_basati_su_Chromium">link</a>.
 
 ### Installazione
 

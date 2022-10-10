@@ -54,10 +54,11 @@ Una volta effettuato il download estrarre il contenuto in una directory a propri
 1. Andare sulla repository e cliccare `Code -> Download ZIP`;
 2. Estrarre il contenuto in una directory a propria scelta;
 3. Aprire Chrome e andare su `Chrome -> Estensioni -> Gestisci estensioni`;
-4. Cliccare `Carica estensione non pacchettizzata` e selezionare la directory (punto 2.) contenente l'estensione;
-5. Recarsi alla pagina <a href="https://www.netflix.com/browse/my-list">Netflix</a> nella sezione "La mia lista". Potrebbe essere necessario ricaricare la pagina;
-6. Cliccare il bottone `Verifica scadenze dei film`;
-7. In base alla quantità di elementi presenti nella lista e alla velocità di connessione la durata della ricerca può variare.
+4. Cliccare su `Modalità sviluppatore`;
+5. Cliccare `Carica estensione non pacchettizzata` e selezionare la directory (punto 2.) contenente l'estensione (`Netflix Chrome`);
+6. Recarsi alla pagina <a href="https://www.netflix.com/browse/my-list">Netflix</a> nella sezione "La mia lista". Potrebbe essere necessario ricaricare la pagina;
+7. Cliccare il bottone `Verifica scadenze dei film`;
+8. In base alla quantità di elementi presenti nella lista e alla velocità di connessione la durata della ricerca può variare.
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 

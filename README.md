@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 # Netflix-MyList-Expire-Dates
-Un'estensione per browser Chronium per visualizzare le date di scadenza dei contenuti presenti nella sezione "La mia lista" di <a href="https://www.netflix.com">Netflix</a>.
+Un'estensione per browser Chromium per visualizzare le date di scadenza dei contenuti presenti nella sezione "La mia lista" di <a href="https://www.netflix.com">Netflix</a>.
 
 <!-- TABLE OF CONTENTS -->
 <details>

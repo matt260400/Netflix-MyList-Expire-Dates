@@ -45,7 +45,7 @@ L'estensione non è ancora presente negli store, quindi sarà necessario eseguir
 È necessario avere un browser Chromium come Google Chrome o Microsoft Edge oppure Firefox.
 Una lista esaustiva di browser Chromium è presente al seguente <a href="https://it.wikipedia.org/wiki/Chromium#Browser_basati_su_Chromium">link</a>.
 
-### Installazione
+### Installazione browser Chromium
 
 _La seguente guida è scritta per l'installazione su Chrome. La procedura è simile per gli altri browser. Ulteriori istruzioni per altri browser verranno aggiunte man mano._
 
@@ -55,17 +55,34 @@ Una volta effettuato il download estrarre il contenuto in una directory a propri
 2. Estrarre il contenuto in una directory a propria scelta;
 3. Aprire Chrome e andare su `Chrome -> Estensioni -> Gestisci estensioni`;
 4. Cliccare su `Modalità sviluppatore`;
-5. Cliccare `Carica estensione non pacchettizzata` e selezionare la directory (punto 2.) contenente l'estensione (`Netflix Chrome`);
+5. Cliccare `Carica estensione non pacchettizzata` e selezionare la directory (punto 2) contenente l'estensione (`Netflix Chrome`);
 6. Recarsi alla pagina <a href="https://www.netflix.com/browse/my-list">Netflix</a> nella sezione "La mia lista". Potrebbe essere necessario ricaricare la pagina;
 7. Cliccare il bottone `Verifica scadenze dei film`;
 8. In base alla quantità di elementi presenti nella lista e alla velocità di connessione la durata della ricerca può variare.
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
+### Installazione browser Firefox
+
+Una volta effettuato il download estrarre il contenuto in una directory a propria scelta.
+
+1. Andare sulla repository e cliccare `Code -> Download ZIP`;
+2. Estrarre il contenuto in una directory a propria scelta;
+3. Aprire tale directory e creare un archivio ZIP della directory `Netflix Firefox`
+4. Aprire Firefox e digitare l'URL `about:debugging` e premere invio;
+5. Cliccare su `Questo Firefox`;
+6. Cliccare `Carica componente aggiuntivo temporaneo` e selezionare il file ZIP (punto 3) contenente l'estensione (`Netflix Firefox`);
+7. Recarsi alla pagina <a href="https://www.netflix.com/browse/my-list">Netflix</a> nella sezione "La mia lista". Potrebbe essere necessario ricaricare la pagina;
+8. Cliccare il bottone `Verifica scadenze dei film`;
+9. In base alla quantità di elementi presenti nella lista e alla velocità di connessione la durata della ricerca può variare.
+
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
+
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Aggiungere il changelog
+- [ ] Aggiungere icone personalizzate
+- [ ] Aggiungere pagina opzioni
 - [ ] Aggiungere una cache per non ricercare gli elementi di cui si conosce già la data di scadenza
 - [ ] Aggiungere un tasto per permettere il download di un file .xls contenente l'intera lista di elementi
 - [ ] Supporto multi-lingue

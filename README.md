@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 # Netflix-MyList-Expire-Dates
-Un'estensione per browser Chromium per visualizzare le date di scadenza dei contenuti presenti nella sezione "La mia lista" di <a href="https://www.netflix.com">Netflix</a>.
+Un'estensione per browser Chromium e Firefox per visualizzare le date di scadenza dei contenuti presenti nella sezione "La mia lista" di <a href="https://www.netflix.com">Netflix</a>.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -42,7 +42,7 @@ L'estensione non è ancora presente negli store, quindi sarà necessario eseguir
 
 ### Prerequisiti
 
-È necessario avere un browser Chromium come Google Chrome o Microsoft Edge.
+È necessario avere un browser Chromium come Google Chrome o Microsoft Edge oppure Firefox.
 Una lista esaustiva di browser Chromium è presente al seguente <a href="https://it.wikipedia.org/wiki/Chromium#Browser_basati_su_Chromium">link</a>.
 
 ### Installazione

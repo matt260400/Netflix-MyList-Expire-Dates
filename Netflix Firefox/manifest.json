@@ -1,0 +1,51 @@
+{
+    "name": "Netflix Expire Date",
+    "description": "Add expire date to film in MyList.",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "icons": {
+        "16": "./images/icon-16x16.png",
+        "32": "./images/icon-32x32.png",
+        "48": "./images/icon-48x48.png",
+        "128": "./images/icon-128x128.png"
+    },
+    "background": {
+        "scripts": [
+            "./background.js"
+        ]
+    },
+    "page_action": {
+        "default_popup": "./popup.html",
+        "default_icons": {
+            "16": "./images/icon-16x16.png",
+            "32": "./images/icon-32x32.png",
+            "48": "./images/icon-48x48.png",
+            "128": "./images/icon-128x128.png"
+        }
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "addon@example.com"
+        }
+    },
+    "options_page": "./options.html",
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "storage",
+        "scripting"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.netflix.com/browse/my-list"
+            ],
+            "js": [
+                "foreground.js"
+            ],
+            "css": [
+                "foreground_styles.css"
+            ]
+        }
+    ]
+}

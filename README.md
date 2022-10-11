@@ -13,7 +13,8 @@ Un'estensione per browser Chromium e Firefox per visualizzare le date di scadenz
     <li>
       <a href="#per-iniziare">Per iniziare</a>
       <ul>
-        <li><a href="#installazione">Installazione</a></li>
+        <li><a href="#installazione-browser-chromium">Installazione</a></li>
+        <li><a href="#installazione-browser-firefox">Installazione</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>

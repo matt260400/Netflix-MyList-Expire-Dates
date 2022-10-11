@@ -26,7 +26,7 @@ Un'estensione per browser Chromium e Firefox per visualizzare le date di scadenz
 <!-- ABOUT THE PROJECT -->
 ## L'estensione
 
-[![Screen Shot][product-screenshot]]
+![Screen Shot][product-screenshot]
 
 L'estensione permette di visualizzare le date di scadenza dei contenuti presenti all'interno della pagina "La mia lista".
 Alla pressione del bottone viene effettuata una ricerca in background di ogni elemento presente all'interno della lista.
